@@ -15,6 +15,6 @@ public class AA {
      * @return:void
      */
     public void aa() {
-
+        System.out.println("更新1");
     }
 }
